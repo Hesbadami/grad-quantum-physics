@@ -6,8 +6,7 @@
 
 * ### [MScAC Program (Quantum Computing Concentration)](https://www.sgs.utoronto.ca/programs/applied-computing/)
 
-#### Deadline:
-* 1-Dec
+#### Deadline: 1-Dec
 
 #### Requirements:
 	
@@ -19,8 +18,7 @@
 		
 * ### [Physics Master of Science](https://www.sgs.utoronto.ca/programs/physics/)
 
-### Deadline:
-* 15-Dec
+#### Deadline: 15-Dec
 
 #### Requirements:
 	
