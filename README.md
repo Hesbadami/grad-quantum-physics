@@ -43,4 +43,18 @@
 	| [Iranian Student Memorial Scholarship](https://www.sgs.utoronto.ca/awards/iranian-student-memorial-scholarship-grad-app/) | One award up to $1300 |
 	| [Lachlan Gilchrist Fellowship Fund](https://www.sgs.utoronto.ca/awards/university-wide-award-the-lachlan-gilchrist-fellowship-fund/) | Up to $4,000 |
 ---
+# The University of British Columbia
 
+* ## Programs
+
+	* ### [Master of Science in Physics (MSc)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics)
+
+		**Deadline:** 
+
+		#### Requirements:
+	
+			3.3/4 GPU
+			TOEFL: 90/120 or IELTS: 6.5
+			Three references
+			Statement of Interest
+			Supervision (Applicants should indicate in their application who they are interested in working with. contacting faculty members is encouraged.)
