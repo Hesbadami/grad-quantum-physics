@@ -1,4 +1,4 @@
-# My Watchlist of University Posittions and Professors:
+# My Watchlist of University Positions and Professors:
 
 ---
 
