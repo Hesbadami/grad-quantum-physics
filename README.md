@@ -1,4 +1,4 @@
-# My Watchlist of University Positions and Professors related to Quantum Mechanics:
+# My Watchlist of Professors, University Positions and International Funds related to Quantum Mechanics:
 ---
 # University of Toronto
 
@@ -34,5 +34,17 @@
 	|---|---|---|
 	| Master of Science in Applied Computing (MScAC), entering 2021 | $36,740 | $19,290 |
 	| Master of Science (MSc), entering 2021 | $26,210 | $27,520 |
+	
+* ## Funds
+	| Fund Name | Value & Duration |
+	|---|---|
+	| [Governor General’s Gold Medals](https://www.sgs.utoronto.ca/awards/governor-generals-gold-medals/) | |
+	| [Ontario Graduate Scholarship](https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/) | |
+	| [Scholars-at-Risk Fellowship](https://www.sgs.utoronto.ca/awards/scholars-at-risk-fellowship%e2%80%8b/) | Up to $10,000 for one year |
+	| [SGS Accessibility Grant](https://www.sgs.utoronto.ca/awards/sgs-accessibility-grant/) | |
+	| [Iranian Student Memorial Scholarship](https://www.sgs.utoronto.ca/awards/iranian-student-memorial-scholarship-grad-app/) | One award up to $1300 |
+	| [Lachlan Gilchrist Fellowship Fund](https://www.sgs.utoronto.ca/awards/university-wide-award-the-lachlan-gilchrist-fellowship-fund/) | Up to $4,000 |
+	
+	* 
 ---
 
