@@ -2,8 +2,6 @@
 ---
 # University of Toronto
 
-* ## Professors
-
 * ## Programs
 
 	* ### [MScAC Program (Quantum Computing Concentration)](https://www.sgs.utoronto.ca/programs/applied-computing/)
