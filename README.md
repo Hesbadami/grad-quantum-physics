@@ -1,5 +1,8 @@
 # My Watchlist of Supervisors, University Positions and International Funds related to Quantum Mechanics:
 ---
+* [University of Toronto](#university-of-toronto)
+* [The University of British Columbia](#the-university-of-british-columbia)
+---
 # University of Toronto
 
 * ## Programs
