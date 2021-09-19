@@ -20,7 +20,7 @@
 		
 * ### [Physics Master of Science](https://www.sgs.utoronto.ca/programs/physics/)
 
-#### Deadline: 15-Dec
+**Deadline:** 15-Dec
 
 #### Requirements:
 	
