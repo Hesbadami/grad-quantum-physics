@@ -4,9 +4,9 @@
 
 * ## Professors
 
-## Programs
+* ## Programs
 
-* ### [MScAC Program (Quantum Computing Concentration)](https://www.sgs.utoronto.ca/programs/applied-computing/)
+	* ### [MScAC Program (Quantum Computing Concentration)](https://www.sgs.utoronto.ca/programs/applied-computing/)
 
 **Deadline:** 1-Dec
 
