@@ -38,6 +38,8 @@
 			Supervision (Applicants should indicate in their application who they are interested in working with.)
 		
 * ## Tuition Fees By Year/Term
+	| Application Fee | $125 |
+	|---|---|
 
 	|  | 2021-22 | 2022-23 |
 	|---|---|---|
