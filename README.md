@@ -31,7 +31,7 @@
 ## Tuition Fees By Year/Term:
 
 |  | 2021-22 | 2022-23 |
-|---|---|---|---|---|
+|---|---|---|
 | Master of Science in Applied Computing (MScAC), entering 2021 | $36,740 | $19,290 |
 
 ---
