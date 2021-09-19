@@ -44,7 +44,5 @@
 	| [SGS Accessibility Grant](https://www.sgs.utoronto.ca/awards/sgs-accessibility-grant/) | |
 	| [Iranian Student Memorial Scholarship](https://www.sgs.utoronto.ca/awards/iranian-student-memorial-scholarship-grad-app/) | One award up to $1300 |
 	| [Lachlan Gilchrist Fellowship Fund](https://www.sgs.utoronto.ca/awards/university-wide-award-the-lachlan-gilchrist-fellowship-fund/) | Up to $4,000 |
-	
-	* 
 ---
 
