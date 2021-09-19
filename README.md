@@ -1,8 +1,10 @@
-# My Watchlist of University Positions and Professors:
+# My Watchlist of University Positions and Professors related to Quantum Mechanics:
 ---
-# Canada:
+# University of Toronto
 
-1. ## University of Toronto
+## Professors
+
+## Programs
 
 * ### [MScAC Program (Quantum Computing Concentration)](https://www.sgs.utoronto.ca/programs/applied-computing/)
 
