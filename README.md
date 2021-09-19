@@ -18,7 +18,7 @@
 			Three references
 			Motivation Letter
 		
-	* ### [Physics Master of Science](https://www.sgs.utoronto.ca/programs/physics/)
+	* ### [Master of Science (Physics)](https://www.sgs.utoronto.ca/programs/physics/)
 
 		**Deadline:** 15-Dec
 
@@ -33,6 +33,6 @@
 	|  | 2021-22 | 2022-23 |
 	|---|---|---|
 	| Master of Science in Applied Computing (MScAC), entering 2021 | $36,740 | $19,290 |
-
+	| Master of Science (MSc), entering 2021 | $26,210 | $27,520 |
 ---
 
