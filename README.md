@@ -6,6 +6,9 @@
 
 * ### [MScAC Program (Quantum Computing Concentration)](https://www.sgs.utoronto.ca/programs/applied-computing/)
 
+#### Deadline:
+	1-Dec
+
 #### Requirements:
 	
 	quantum mechanics, multivariate calculus, linear algebra, probability and statistics, programming languages, and computational methods.
@@ -15,6 +18,10 @@
 	Motivation Letter
 		
 * ### [Physics Master of Science](https://www.sgs.utoronto.ca/programs/physics/)
+
+#### Deadline:
+	15-Dec
+
 #### Requirements:
 	
 	3.3/4 GPU (Final year)
