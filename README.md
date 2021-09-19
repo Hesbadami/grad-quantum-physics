@@ -8,7 +8,7 @@
 
 	* ### [MScAC Program (Quantum Computing Concentration)](https://www.sgs.utoronto.ca/programs/applied-computing/)
 
-			**Deadline:** 1-Dec
+		**Deadline:** 1-Dec
 
 		#### Requirements:
 	
@@ -18,21 +18,21 @@
 			Three references
 			Motivation Letter
 		
-* ### [Physics Master of Science](https://www.sgs.utoronto.ca/programs/physics/)
+	* ### [Physics Master of Science](https://www.sgs.utoronto.ca/programs/physics/)
 
-**Deadline:** 15-Dec
+		**Deadline:** 15-Dec
 
-#### Requirements:
+		#### Requirements:
 	
-	3.3/4 GPU (Final year)
-	TOEFL: 93/120 or IELTS: 7.0
-	Two references
+			3.3/4 GPU (Final year)
+			TOEFL: 93/120 or IELTS: 7.0
+			Two references
 		
-## Tuition Fees By Year/Term:
+* ## Tuition Fees By Year/Term:
 
-|  | 2021-22 | 2022-23 |
-|---|---|---|
-| Master of Science in Applied Computing (MScAC), entering 2021 | $36,740 | $19,290 |
+	|  | 2021-22 | 2022-23 |
+	|---|---|---|
+	| Master of Science in Applied Computing (MScAC), entering 2021 | $36,740 | $19,290 |
 
 ---
 
