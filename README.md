@@ -21,7 +21,7 @@
 		#### Requirements:
 	
 			quantum mechanics, multivariate calculus, linear algebra, probability and statistics, programming languages, and computational methods.
-			3.3/4 GPU (Final year)
+			3.3/4 GPA (Final year)
 			TOEFL: 93/120 or IELTS: 7.0
 			Three references
 			Motivation Letter
@@ -32,7 +32,7 @@
 
 		#### Requirements:
 	
-			3.3/4 GPU (Final year)
+			3.3/4 GPA (Final year)
 			TOEFL: 93/120 or IELTS: 7.0
 			Two references
 			Supervision (Applicants should indicate in their application who they are interested in working with.)
@@ -66,7 +66,7 @@
 
 		#### Requirements:
 	
-			3.3/4 GPU
+			3.3/4 GPA
 			TOEFL: 90/120 or IELTS: 6.5
 			Three references
 			Statement of Interest
