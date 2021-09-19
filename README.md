@@ -7,7 +7,7 @@
 * ### [MScAC Program (Quantum Computing Concentration)](https://www.sgs.utoronto.ca/programs/applied-computing/)
 
 #### Deadline:
-	1-Dec
+> 1-Dec
 
 #### Requirements:
 	
