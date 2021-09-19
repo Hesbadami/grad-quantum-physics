@@ -35,6 +35,7 @@
 			3.3/4 GPU (Final year)
 			TOEFL: 93/120 or IELTS: 7.0
 			Two references
+			Supervision (Applicants should indicate in their application who they are interested in working with.)
 		
 * ## Tuition Fees By Year/Term
 
@@ -67,7 +68,7 @@
 			TOEFL: 90/120 or IELTS: 6.5
 			Three references
 			Statement of Interest
-			Supervision (Applicants should indicate in their application who they are interested in working with. contacting faculty members is encouraged.)
+			Supervision (Applicants should indicate in their application who they are interested in working with.)
 
 * ## Supervisors
 	* [Robert Raussendorf](https://www.grad.ubc.ca/researcher/15282-raussendorf)
