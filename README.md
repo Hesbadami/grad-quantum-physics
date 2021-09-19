@@ -1,4 +1,4 @@
-# My Watchlist of Supervisors, University Positions and International Funds related to Quantum Mechanics:
+# My Watchlist of Supervisors, Graduate University Positions and International Funds related to Quantum Mechanics:
 ---
 * [University of Toronto](#university-of-toronto)
 	* [Programs](#programs)
