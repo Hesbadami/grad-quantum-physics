@@ -28,5 +28,7 @@
 	TOEFL: 93/120 or IELTS: 7.0
 	Two references
 		
+## Tuition Fees By Year/Term:
+
 ---
 
