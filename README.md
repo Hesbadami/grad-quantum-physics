@@ -2,7 +2,7 @@
 ---
 # University of Toronto
 
-## Professors
+* ## Professors
 
 ## Programs
 
