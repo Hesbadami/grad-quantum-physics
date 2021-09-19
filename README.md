@@ -19,9 +19,9 @@
 * ### [Physics Master of Science](https://www.sgs.utoronto.ca/programs/physics/)
 #### Requirements:
 	
-		* 3.3/4 GPU (Final year)
-		* TOEFL: 93/120 or IELTS: 7.0
-		* Two references
+	3.3/4 GPU (Final year)
+	TOEFL: 93/120 or IELTS: 7.0
+	Two references
 		
 ---
 
