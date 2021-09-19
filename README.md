@@ -16,7 +16,7 @@
 			Three references
 			Motivation Letter
 		
-	* ### [Master of Science (Physics)](https://www.sgs.utoronto.ca/programs/physics/)
+	* ### [Master of Science in Physics (MSc))](https://www.sgs.utoronto.ca/programs/physics/)
 
 		**Deadline:** 15-Dec
 
