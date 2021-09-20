@@ -125,9 +125,11 @@
 	| Misc Fees | $1,449.97 |
 	| **Net Annual Fees** | $5,400.87 |
 	
-	physics.mcgill.ca/grads/finance.html
+	[physics.mcgill.ca/grads/finance.html](http://www.physics.mcgill.ca/grads/finance.html)
 
 * ## Financial Suppoert
-	| Name | Value & Duration |
+	| Fund Name | Value & Duration |
 	|---|---|
-	| [Stipend](http://www.physics.mcgill.ca/grads/finance.html) | 
+	| [Stipend](http://www.physics.mcgill.ca/grads/finance.html) | $20,500 |
+	| [TA-ship](http://www.physics.mcgill.ca/grads/finance.html) | $5,800 |
+	| [GREAT Awards](https://www.mcgill.ca/gps/funding/fac-staff/awards/great) | |
