@@ -129,6 +129,7 @@
 * ## Tuition Fees
 	| | International MSc |
 	|---|---|
+	| Application Fee | $120.99 |
 	| Tuition | $2,622.90 |
 	| Default Health and Dental Insurance (can opt out if already covered) | $1328.00 |
 	| Misc Fees | $1,449.97 |
