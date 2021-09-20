@@ -1,4 +1,4 @@
-# My list of supervisors, graduate university programs and international funds related to Quantum Mechanics:
+# My Watchlist of Supervisors, Graduate University Positions and International Funds related to Quantum Mechanics:
 ---
 * [University of Toronto](#university-of-toronto)
 	* [Programs](#programs)
@@ -23,7 +23,7 @@
 			quantum mechanics, multivariate calculus, linear algebra, probability and statistics, programming languages, and computational methods.
 			3.3/4 GPA (Final year)
 			TOEFL: 93/120 or IELTS: 7.0
-			Three references
+			3 Letters of Reference
 			Motivation Letter
 		
 	* ### [Master of Science in Physics (MSc)](https://www.sgs.utoronto.ca/programs/physics/)
@@ -34,7 +34,7 @@
 	
 			3.3/4 GPA (Final year)
 			TOEFL: 93/120 or IELTS: 7.0
-			Two references
+			2 Letters of Reference
 			Supervision (Applicants should indicate in their application who they are interested in working with.)
 		
 * ## Tuition Fees By Year/Term
@@ -68,7 +68,7 @@
 	
 			3.3/4 GPA
 			TOEFL: 90/120 or IELTS: 6.5
-			Three references
+			2 Letters of Reference
 			Statement of Interest
 			Supervision (Applicants should indicate in their application who they are interested in working with.)
 
@@ -81,7 +81,7 @@
 	* [Valery Milner](https://www.grad.ubc.ca/researcher/14751-milner)
 
 * ## Tuition Fees
-	| Tuition & Fees | |
+	| | International MSc |
 	|---|---|
 	| Application Fee | $168.25 [(Can be waived)](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee) |
 	| Tuition per year | $9,131.31 |
@@ -93,4 +93,40 @@
 	| [International Tuition Award (ITA)](https://www.grad.ubc.ca/awards/international-tuition-award) | $3,200 |
 	| [Affiliated Fellowships Master's Program](https://www.grad.ubc.ca/awards/affiliated-fellowships-masters-program) | $175 to $16,000 |
 	| [Spring Graduate Awards Competition](https://www.grad.ubc.ca/awards/spring-graduate-awards-competition) | $16,000 |
+	| TA-ship | |
+---
+# McGill University
+
+* ## Programs
+
+	* ### [Master of Science in Physics (MSc)](https://www.mcgill.ca/gradapplicants/programs/physics)
 	
+		**Deadline:**
+			| | Application Opening Dates | Application Deadlines |
+			|---|---|---|
+			| Fall Term | Sept. 15 | Dec. 15 |
+			| Winter Term | Feb. 15 | Sept. 10 |
+			
+		#### Requirements:
+		
+			3.0/4 GPA (Overall)
+			3.2/4 GPA (Final two years)
+			TOEFL: 86/120 or IELTS: 6.5
+			Thesis Abstract or Summary – optional
+			GRE – recommended but not required
+			
+* ## Supervisors
+
+* ## Tuition Fees
+	| | International MSc |
+	|---|---|
+	| Tuition | $2,622.90 |
+	| Default Health and Dental Insurance (can opt out if already covered) | $1328.00 |
+	| Misc Fees | $1,449.97 |
+	| **Net Annual Fees** | $5,400.87 |
+	physics.mcgill.ca/grads/finance.html
+
+* ## Financial Suppoert
+	| Name | Value & Duration |
+	|---|---|
+	| [Stipend](http://www.physics.mcgill.ca/grads/finance.html) | 
