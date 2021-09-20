@@ -14,6 +14,11 @@
 	* [Supervisors](#supervisors-1)
 	* [Tuition](#tuition-fees-1)
 	* [Financial Support](#financial-support-2)
+* [University of Alberta](#university-of-alberta)
+	* [Programs](#programs-3)
+	* [Supervisors](#supervisors-2)
+	* [Tuition](#tuition-fees-2)
+	* [Financial Support](#financial-support-3)
 ---
 # University of Toronto
 
@@ -117,7 +122,8 @@
 			[Equivalent to McGill's Bachelor of Science (B.Sc.) - Major Physics (63 credits)](https://www.mcgill.ca/study/2021-2022/faculties/science/undergraduate/programs/bachelor-science-bsc-major-physics#bsc-pemc_phc_major_sc)
 			3.0/4 GPA (Overall)
 			3.2/4 GPA (Final two years)
-			TOEFL: 86/120 or IELTS: 6.5
+			TOEFL: 86/120 or IELTS: 7
+			3 Letters of Reference
 			Thesis Abstract or Summary – optional
 			GRE – recommended but not required
 			
@@ -129,11 +135,10 @@
 * ## Tuition Fees
 	| | International MSc |
 	|---|---|
-	| Application Fee | $120.99 |
 	| Tuition | $2,622.90 |
 	| Default Health and Dental Insurance (can opt out if already covered) | $1328.00 |
 	| Misc Fees | $1,449.97 |
-	| **Net Annual Fees** | **$5,400.87** |
+	| **Net Annual Fees** | $5,400.87 |
 	
 	[physics.mcgill.ca/grads/finance.html](http://www.physics.mcgill.ca/grads/finance.html)
 
@@ -143,3 +148,34 @@
 	| [Stipend](http://www.physics.mcgill.ca/grads/finance.html) | $20,500 |
 	| [TA-ship](https://www.physics.mcgill.ca/pos/tas/) | $5,800 |
 	| [GREAT Awards](https://www.mcgill.ca/gps/funding/fac-staff/awards/great) | |
+---
+# University of Alberta
+
+* ## Programs
+
+	* ### [Master of Science in Physics (MSc)](https://www.ualberta.ca/graduate-programs/physics.html)
+	
+		**Deadline:**
+			| Application Opening Dates | Application Deadlines |
+			|---|---|---|
+			| November 1 | December 6 |
+		
+		#### Requirements:
+		
+			3.0/4 GPA (Each of the last two years)
+			TOEFL: 90/120 or IELTS: 6.5 or [Duolingo English Test](https://www.ualberta.ca/graduate-studies/prospective-students/international-admissions-protocol/english-language-proficiency/index.html)
+			3 Letters of Reference
+			Statement of Interest in 500 words or less (1 single-spaced page)
+			[Request for Financial Support](https://www.ualberta.ca/physics/media-library/form-documents/grad/requestsupport.pdf) if required
+			
+* ## Supervisors
+	* [www.ualberta.ca/physics/.../research-and-supervision](https://www.ualberta.ca/physics/graduate-studies/information-for-prospective-students-and-applicants/research-and-supervision.html)
+	
+* ## Tuition Fees
+	| | Fall 2020 |
+	|---|---|
+	| Instructional Fees | $1,864.30 per \*3 course |
+	| Cost of Living Total (excluding tuition) | $1,585 - $2,195 |
+	| [Non-Instructional Fees](https://www.ualberta.ca/graduate-studies/current-students/tuition-and-fees/noninstructional-fees.html) | $1213.31 |
+	
+* ## Financial Support
