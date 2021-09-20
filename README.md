@@ -9,6 +9,11 @@
 	* [Supervisors](#supervisors)
 	* [Tuition](#tuition-fees)
 	* [Financial Support](#financial-support-1)
+* [McGill University](#mcgill-university)
+	* [Programs](#programs-2)
+	* [Supervisors](#supervisors-1)
+	* [Tuition](#tuition-fees-1)
+	* [Financial Support](#financial-support-2)
 ---
 # University of Toronto
 
