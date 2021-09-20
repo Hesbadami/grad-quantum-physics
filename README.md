@@ -1,15 +1,15 @@
 # My Watchlist of Supervisors, Graduate University Positions and International Funds related to Quantum Mechanics:
 ---
-* [University of Toronto](#university-of-toronto)
+* #### [University of Toronto](#university-of-toronto)
 	* [Programs](#programs)
 	* [Tuition](#tuition-fees-by-yearterm)
 	* [Financial Support](#financial-support)
-* [The University of British Columbia](#the-university-of-british-columbia)
+* ##### [The University of British Columbia](#the-university-of-british-columbia)
 	* [Programs](#programs-1)
 	* [Supervisors](#supervisors)
 	* [Tuition](#tuition-fees)
 	* [Financial Support](#financial-support-1)
-* [McGill University](#mcgill-university)
+* **[McGill University](#mcgill-university)**
 	* [Programs](#programs-2)
 	* [Supervisors](#supervisors-1)
 	* [Tuition](#tuition-fees-1)
