@@ -1,15 +1,15 @@
 # My Watchlist of Supervisors, Graduate University Positions and International Funds related to Quantum Mechanics:
 ---
-* #### [University of Toronto](#university-of-toronto)
+* [University of Toronto](#university-of-toronto)
 	* [Programs](#programs)
 	* [Tuition](#tuition-fees-by-yearterm)
 	* [Financial Support](#financial-support)
-* #### [The University of British Columbia](#the-university-of-british-columbia)
+* [The University of British Columbia](#the-university-of-british-columbia)
 	* [Programs](#programs-1)
 	* [Supervisors](#supervisors)
 	* [Tuition](#tuition-fees)
 	* [Financial Support](#financial-support-1)
-* #### [McGill University](#mcgill-university)
+* [McGill University](#mcgill-university)
 	* [Programs](#programs-2)
 	* [Supervisors](#supervisors-1)
 	* [Tuition](#tuition-fees-1)
@@ -114,6 +114,7 @@
 			
 		#### Requirements:
 		
+			[Equivalent to McGill's Bachelor of Science (B.Sc.) - Major Physics (63 credits)](https://www.mcgill.ca/study/2021-2022/faculties/science/undergraduate/programs/bachelor-science-bsc-major-physics#bsc-pemc_phc_major_sc)
 			3.0/4 GPA (Overall)
 			3.2/4 GPA (Final two years)
 			TOEFL: 86/120 or IELTS: 6.5
@@ -121,7 +122,10 @@
 			GRE – recommended but not required
 			
 * ## Supervisors
-
+	
+	* [physics.mcgill.ca/people/faculty-f.html](https://www.physics.mcgill.ca/people/faculty-f.html)
+	
+	
 * ## Tuition Fees
 	| | International MSc |
 	|---|---|
@@ -136,5 +140,5 @@
 	| Fund Name | Value & Duration |
 	|---|---|
 	| [Stipend](http://www.physics.mcgill.ca/grads/finance.html) | $20,500 |
-	| [TA-ship](http://www.physics.mcgill.ca/grads/finance.html) | $5,800 |
+	| [TA-ship](https://www.physics.mcgill.ca/pos/tas/) | $5,800 |
 	| [GREAT Awards](https://www.mcgill.ca/gps/funding/fac-staff/awards/great) | |
