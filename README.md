@@ -142,7 +142,7 @@
 	
 	[physics.mcgill.ca/grads/finance.html](http://www.physics.mcgill.ca/grads/finance.html)
 
-* ## Financial Suppoert
+* ## Financial Support
 	| Fund Name | Value & Duration |
 	|---|---|
 	| [Stipend](http://www.physics.mcgill.ca/grads/finance.html) | $20,500 |
