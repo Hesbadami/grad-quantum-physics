@@ -124,6 +124,7 @@
 	| Default Health and Dental Insurance (can opt out if already covered) | $1328.00 |
 	| Misc Fees | $1,449.97 |
 	| **Net Annual Fees** | $5,400.87 |
+	
 	physics.mcgill.ca/grads/finance.html
 
 * ## Financial Suppoert
