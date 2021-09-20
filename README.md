@@ -174,6 +174,7 @@
 * ## Tuition Fees
 	| | Fall 2020 |
 	|---|---|
+	| Application Fee | $135 |
 	| Instructional Fees | $1,864.30 per \*3 course |
 	| Cost of Living Total (excluding tuition) | $21,320 - $28,640 |
 	| [Non-Instructional Fees](https://www.ualberta.ca/graduate-studies/current-students/tuition-and-fees/noninstructional-fees.html) | $1213.31 |
