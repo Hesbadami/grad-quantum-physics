@@ -158,9 +158,9 @@
 	
 		**Deadline:**
 
-	| Application Opening Dates | Application Deadlines |
-	|---|---|
-	| November 1 | December 6 |
+		| Application Opening Dates | Application Deadlines |
+		|---|---|
+		| November 1 | December 6 |
 		
 		#### Requirements:
 		
