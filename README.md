@@ -112,10 +112,10 @@
 	* ### [Master of Science in Physics (MSc)](https://www.mcgill.ca/gradapplicants/programs/physics)
 	
 		**Deadline:**
-			| | Application Opening Dates | Application Deadlines |
-			|---|---|---|
-			| Fall Term | Sept. 15 | Dec. 15 |
-			| Winter Term | Feb. 15 | Sept. 10 |
+	| | Application Opening Dates | Application Deadlines |
+	|---|---|---|
+	| Fall Term | Sept. 15 | Dec. 15 |
+	| Winter Term | Feb. 15 | Sept. 10 |
 			
 		#### Requirements:
 		
