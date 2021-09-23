@@ -113,10 +113,10 @@
 	
 		**Deadline:**
 
-	| | Application Opening Dates | Application Deadlines |
-	|---|---|---|
-	| Fall Term | Sept. 15 | Dec. 15 |
-	| Winter Term | Feb. 15 | Sept. 10 |
+		| | Application Opening Dates | Application Deadlines |
+		|---|---|---|
+		| Fall Term | Sept. 15 | Dec. 15 |
+		| Winter Term | Feb. 15 | Sept. 10 |
 			
 		#### Requirements:
 		
@@ -158,9 +158,9 @@
 	
 		**Deadline:**
 
-			| Application Opening Dates | Application Deadlines |
-			|---|---|
-			| November 1 | December 6 |
+		| Application Opening Dates | Application Deadlines |
+		|---|---|
+		| November 1 | December 6 |
 		
 		#### Requirements:
 		
