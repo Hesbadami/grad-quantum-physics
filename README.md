@@ -156,9 +156,9 @@
 	* ### [Master of Science in Physics (MSc)](https://www.ualberta.ca/graduate-programs/physics.html)
 	
 		**Deadline:**
-			| Application Opening Dates | Application Deadlines |
-			|---|---|---|
-			| November 1 | December 6 |
+	| Application Opening Dates | Application Deadlines |
+	|---|---|---|
+	| November 1 | December 6 |
 		
 		#### Requirements:
 		
